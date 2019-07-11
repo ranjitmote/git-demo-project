@@ -1,0 +1,14 @@
+D:\dotnet\RBTS\bin\Debug\netcoreapp2.2\RBTS.deps.json
+D:\dotnet\RBTS\bin\Debug\netcoreapp2.2\RBTS.runtimeconfig.json
+D:\dotnet\RBTS\bin\Debug\netcoreapp2.2\RBTS.runtimeconfig.dev.json
+D:\dotnet\RBTS\bin\Debug\netcoreapp2.2\RBTS.dll
+D:\dotnet\RBTS\bin\Debug\netcoreapp2.2\RBTS.pdb
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.csprojAssemblyReference.cache
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.csproj.CoreCompileInputs.cache
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.RazorAssemblyInfo.cache
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.RazorAssemblyInfo.cs
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.AssemblyInfoInputs.cache
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.AssemblyInfo.cs
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.RazorTargetAssemblyInfo.cache
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.dll
+D:\dotnet\RBTS\obj\Debug\netcoreapp2.2\RBTS.pdb
